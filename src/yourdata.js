@@ -17,7 +17,7 @@ export default {
   //Change The Website Template
 
   //   Header Details ---------------------
-  name: "chetan",
+  name: "Shreyaan Vashishtha",
   headerTagline: [
     //Line 1 For Header
     "Building digital",
@@ -28,24 +28,24 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.",
+    "My name is Shreyaan Vashishtha. I’m 13 years old, and my passion is Technology. I try to make videos that are to-the-point and as content-packed as possible, so if that sounds like your cup of tea, a sub to my YouTube Channel would be massively appreciated! 🙏",
 
   //Contact Email
-  contactEmail: "hello@chetanverma.com",
+  contactEmail: "shreyaan@shreyaan.tech",
 
   // End Header Details -----------------------
 
   // Work Section ------------------------
   projects: [
     {
-      title: "Project One", //Project Title - Add Your Project Title Here
+      title: "Shreyaan.tech", //Project Title - Add Your Project Title Here
       para:
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://images.unsplash.com/photo-1487837647815-bbc1f30cd0d2?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxzZWFyY2h8Njl8fHBhc3RlbHxlbnwwfHwwfA%3D%3D&auto=format&fit=crop&w=400&q=60",
+        "https://work.shreyaan.tech/images/portfolio/Screenshot%202021-04-11%20at%201.18.01%20PM.png",
       //Project URL - Add Your Project Url Here
-      url: "http://chetanverma.com/",
+      url: "http://shreyaan.tech",
     },
     {
       title: "Project Two", //Project Title - Add Your Project Title Here
