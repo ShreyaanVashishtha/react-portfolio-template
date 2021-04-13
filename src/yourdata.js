@@ -43,7 +43,7 @@ export default {
         "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text.", // Add Your Service Type Here
       //Project Image - Add Your Project Image Here
       imageSrc:
-        "https://work.shreyaan.tech/images/portfolio/Screenshot%202021-04-11%20at%201.18.01%20PM.png",
+        "src/images/Screenshot 2021-04-11 at 1.18.01 PM.png",
       //Project URL - Add Your Project Url Here
       url: "http://shreyaan.tech",
     },
